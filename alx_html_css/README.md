@@ -1,15 +1,19 @@
-# ALX HTML & CSS Project
+# ALX HTML & CSS - Headphones Landing Page
 
-This repository contains projects built during the ALX Frontend Web Development curriculum.
+This is a responsive landing page project built using only HTML and CSS, as part of the ALX Frontend Curriculum. The design is based on a Figma file provided by ALX.
 
-## 📁 Folders
+## ✅ Features
 
-- `headphones/`: A complete responsive landing page built from a Figma design using only HTML and CSS.
+- Semantic HTML5 structure
+- Responsive layout (switches for mobile at 480px)
+- Custom icon fonts (no external libraries)
+- Clean and accessible markup
+- No JavaScript or CSS frameworks
 
-## 🧠 Author
+## 💻 Technologies Used
 
-Yildum David Jonah
- 
-Project maintained by Yildum David Jonah
+- HTML
+- CSS
+- Figma (as reference)
 
-Fixing ALX check
+## 📁 Project Structure
